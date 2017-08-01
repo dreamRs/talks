@@ -1,9 +1,9 @@
 # dreamRs talks
 
 
-# Meetup R Addicts 27/07/2017
+## Meetup R Addicts 27/07/2017
 
-Les slides sont disponibles [ici](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
+Les slides sont disponibles [**ici**](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
 
 Vous pouvez lancer l'exemple comme ceci :
 
@@ -12,9 +12,12 @@ shiny::runGitub(repo = "talks", username = "dreamRs", subdir = "examples/meetup_
 ```
 
 
-# SFDS - Atelier Logiciel 20/04/2017
 
-Les slides sont disponibles [ici](https://github.com/dreamRs/talks/blob/master/20170420_SFDS_ShinySousLeCapot.pdf).
+
+
+## SFDS - Atelier Logiciel 20/04/2017
+
+Les slides sont disponibles [**ici**](https://github.com/dreamRs/talks/blob/master/20170420_SFDS_ShinySousLeCapot.pdf).
 
 Vous pouvez lancer l'exemple comme ceci :
 
