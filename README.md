@@ -8,7 +8,7 @@ Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/t
 Vous pouvez lancer l'exemple comme ceci :
 
 ```r
-shiny::runGitub(repo = "talks", username = "dreamRs", subdir = "examples/meetup_shiny_onInputChange.R")
+shiny::runGitHub(repo = "talks", username = "dreamRs", subdir = "examples/meetup_shiny_onInputChange.R")
 ```
 
 
@@ -22,5 +22,5 @@ Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/t
 Vous pouvez lancer l'exemple comme ceci :
 
 ```r
-shiny::runGitub(repo = "talks", username = "dreamRs", subdir = "examples/sfds_shiny_auto_update.R")
+shiny::runGitHub(repo = "talks", username = "dreamRs", subdir = "examples/sfds_shiny_auto_update.R")
 ```
