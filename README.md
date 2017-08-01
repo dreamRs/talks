@@ -7,7 +7,7 @@ Les slides sont disponibles [ici](https://github.com/dreamRs/talks/blob/master/2
 
 Vous pouvez lancer l'exemple comme ceci :
 
-````r
+```r
 shiny::runGitub(repo = "talks", username = "dreamRs", subdir = "examples/meetup_shiny_onInputChange.R")
 ```
 
@@ -18,6 +18,6 @@ Les slides sont disponibles [ici](https://github.com/dreamRs/talks/blob/master/2
 
 Vous pouvez lancer l'exemple comme ceci :
 
-````r
+```r
 shiny::runGitub(repo = "talks", username = "dreamRs", subdir = "examples/sfds_shiny_auto_update.R")
 ```

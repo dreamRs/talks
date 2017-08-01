@@ -7,7 +7,7 @@ library("shiny")
 
 
 ui <- fluidPage(
-  tags$h1("Exapmle ", tags$code("Shiny.onInputChange")),
+  tags$h1("Example ", tags$code("Shiny.onInputChange")),
   fluidRow(
     column(
       width = 6,
