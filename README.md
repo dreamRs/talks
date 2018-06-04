@@ -3,6 +3,12 @@
 
 ## Meetup R Addicts 27/07/2017
 
+Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180528_RAddicts_datatable.pdf).
+
+
+
+## Meetup R Addicts 27/07/2017
+
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
 
 Vous pouvez lancer l'exemple comme ceci :
