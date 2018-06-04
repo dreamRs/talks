@@ -1,7 +1,7 @@
 # dreamRs talks
 
 
-## Meetup R Addicts 27/07/2017
+## Meetup R Addicts 28/05/2018
 
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180528_RAddicts_datatable.pdf).
 
