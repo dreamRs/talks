@@ -5,6 +5,7 @@
 ## Les Addins RStudio
 
 :round_pushpin: Rencontres R à Rennes
+
 :date: 05/07/2018
 
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180407_RencontresR_Addins.pdf).
@@ -17,6 +18,7 @@ Le package présentant les exemples de la présentation est disponible :arrow_ri
 ## Top 10 des raisons de passer à `data.table` 
 
 :round_pushpin:  Meetup R Addicts 
+
 :date: 28/05/2018
 
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180528_RAddicts_datatable.pdf).
@@ -28,6 +30,7 @@ Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/t
 ## Présentation de `shinyWidgets`
 
 :round_pushpin: Meetup R Addicts 
+
 :date: 27/07/2017
 
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
@@ -43,7 +46,8 @@ shiny::runGitHub(repo = "talks", username = "dreamRs", subdir = "examples/meetup
 
 ## Shiny sous le capot
 
-:round_pushpin: SFDS - Atelier Logiciel 
+:round_pushpin: SFDS - Atelier Logiciel
+
 :date: 20/04/2017
 
 Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170420_SFDS_ShinySousLeCapot.pdf).
