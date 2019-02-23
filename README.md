@@ -2,6 +2,18 @@
 
 
 
+## Find your dream job : a Shiny application for job matching
+
+:round_pushpin: satRday Paris
+
+:date: 23/02/2019
+
+Slides are available :arrow_right: [**here**](https://github.com/dreamRs/talks/blob/master/20190223_Satrday_POCTINDER.pdf).
+
+
+
+
+
 ## Les Addins RStudio
 
 :round_pushpin: Rencontres R à Rennes
