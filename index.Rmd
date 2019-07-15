@@ -1,4 +1,5 @@
 ---
+tile: "dreamRs talks"
 output:
   html_document:
     self_contained: false
@@ -57,7 +58,7 @@ rmd_group_buttons(
 shuffle_widget(
   shuffleId = "gridapps",
   # shared_data = gapminder_shared,
-  options = shuffle_options(is_centered = TRUE, gutter_width = 30),
+  options = shuffle_options(is_centered = FALSE, gutter_width = 10),
   no_card = "No app match the filters",
   card_list = cards
 )

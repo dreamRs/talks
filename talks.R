@@ -25,7 +25,7 @@ talks <- yaml::read_yaml(file = "talks.yml")
 
 # Fun ---------------------------------------------------------------------
 
-make_card <- function(params, card_width = "370px", card_height = "400px", image_height = "200px") {
+make_card <- function(params, card_width = "300px", card_height = "400px", image_height = "200px") {
   shuffle_card(
     width = card_width,
     height = card_height, 
