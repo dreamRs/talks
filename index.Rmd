@@ -1,0 +1,65 @@
+---
+output:
+  html_document:
+    self_contained: false
+    css: assets/styles.css
+---
+
+<head>
+  <title>dreamRs talks</title>
+</head>
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(shufflecards)
+library(htmltools)
+source(file = "talks.R", encoding = "UTF-8")
+```
+
+
+```{r polyfill}
+use_polyfill()
+```
+
+
+```{r particles}
+shinyparticles::particles(
+  config = shinyparticles::particles_config(
+    particles.color.value = "#FFF", particles.shape.stroke.color = "#FFF", particles.line_linked.color = "#FFF"
+  )
+)
+```
+
+
+<a href="https://www.dreamrs.fr/" target = "_blank">
+<img src="assets/logo_dreamRs_couleur_blanc.png" class="logo"></img>
+</a>
+<h1 class="title">dreamRs talks</h1>
+
+<p class="center">All our talks are available here</p>
+
+
+<br/>
+
+```{r sort-btn}
+rmd_group_buttons(
+  shuffleId = "gridapps", style = "text-align: center;",
+  arrange_button(label = "Name", by = "name", icon = shiny::icon("sort-alpha-asc")),
+  arrange_button(label = "Date", by = "when", desc = TRUE, icon = shiny::icon("sort-numeric-desc")),
+  arrange_button("Random!", "random2", icon = shiny::icon("random"))
+)
+```
+
+<br/>
+
+```{r gridapps}
+shuffle_widget(
+  shuffleId = "gridapps",
+  # shared_data = gapminder_shared,
+  options = shuffle_options(is_centered = TRUE, gutter_width = 30),
+  no_card = "No app match the filters",
+  card_list = cards
+)
+```
+

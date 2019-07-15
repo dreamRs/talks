@@ -1,0 +1,32 @@
+talks:
+  - name: OurJourneyWithShiny
+    file: "20190712_useR2019_OurJourneyWithShiny"
+    title: "Our journey with Shiny"
+    when: "2019-07-12"
+    where: "useR!2019 Toulouse"
+  - name: Satrday_POCTINDER
+    file: "20190223_Satrday_POCTINDER"
+    title: "Find your dream job : a shiny app for job matching"
+    when: "2019-02-23"
+    where: "satRday Paris"
+  - name: RencontresR_Addins
+    file: "20180407_RencontresR_Addins"
+    title: "Les Addins RStudio"
+    when: "2018-07-05"
+    where: "Rencontres R à Rennes"
+  - name: RAddicts_datatable
+    file: "20180528_RAddicts_datatable"
+    title: "Top 10 des raisons de passer à data.table"
+    when: "2018-05-28"
+    where: "Meetup R Addicts"
+  - name: RAddicts_shinyWidgets
+    file: "20170712_RAddicts_shinyWidgets"
+    title: "Présentation du package shinyWidgets"
+    when: "2017-07-27"
+    where: "Meetup R Addicts"
+  - name: ShinySousLeCapot
+    file: "20170420_SFDS_ShinySousLeCapot"
+    title: "Shiny sous le capot"
+    when: "2017-04-20"
+    where: "SFDS - Atelier Logiciel"
+  
