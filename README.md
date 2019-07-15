@@ -1,6 +1,9 @@
 # dreamRs talks
 
 
+See online version : https://dreamrs.github.io/talks/
+
+
 ## Our journey with Shiny
 
 :round_pushpin: useR!2019 Toulouse
