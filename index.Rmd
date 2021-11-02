@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(shufflecards)
+library(particlesjs)
+library(phosphoricons)
 library(htmltools)
 source(file = "talks.R", encoding = "UTF-8")
 ```
@@ -25,9 +27,11 @@ use_polyfill()
 
 
 ```{r particles}
-shinyparticles::particles(
-  config = shinyparticles::particles_config(
-    particles.color.value = "#FFF", particles.shape.stroke.color = "#FFF", particles.line_linked.color = "#FFF"
+particles(
+  config = particles_config(
+    particles.color.value = "#FFF", 
+    particles.shape.stroke.color = "#FFF", 
+    particles.line_linked.color = "#FFF"
   )
 )
 ```
@@ -45,10 +49,11 @@ shinyparticles::particles(
 
 ```{r sort-btn}
 rmd_group_buttons(
-  shuffleId = "gridapps", style = "text-align: center;",
-  arrange_button(label = "Name", by = "name", icon = shiny::icon("sort-alpha-asc")),
-  arrange_button(label = "Date", by = "when", desc = TRUE, icon = shiny::icon("sort-numeric-desc")),
-  arrange_button("Random!", "random2", icon = shiny::icon("random"))
+  shuffleId = "gridapps", 
+  style = "text-align: center;",
+  arrange_button(label = "Name", by = "name", icon = ph("sort-asc")),
+  arrange_button(label = "Date", by = "when", desc = TRUE, icon = ph("clock-clockwise")),
+  arrange_button("Random!", "random2", icon = ph("shuffle"))
 )
 ```
 
