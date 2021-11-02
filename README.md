@@ -1,7 +1,7 @@
 # dreamRs talks
 
 
-## Our journey with Shiny
+## Esquisse
 
 :round_pushpin: Rencontres R à Paris
 
