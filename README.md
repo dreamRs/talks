@@ -3,11 +3,22 @@
 
 ## Our journey with Shiny
 
+:round_pushpin: Rencontres R à Paris
+
+:date: 12/07/2021
+
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20210712_RR_esquisse.pdf).
+
+
+
+
+## Our journey with Shiny
+
 :round_pushpin: useR!2019 Toulouse
 
 :date: 12/07/2019
 
-Slides are available :arrow_right: [**here**](https://github.com/dreamRs/talks/blob/master/20190712_useR2019_OurJourneyWithShiny.pdf).
+Slides are available in :gb: :arrow_right: [**here**](https://github.com/dreamRs/talks/blob/master/20190712_useR2019_OurJourneyWithShiny.pdf).
 
 
 
@@ -18,7 +29,7 @@ Slides are available :arrow_right: [**here**](https://github.com/dreamRs/talks/b
 
 :date: 23/02/2019
 
-Slides are available :arrow_right: [**here**](https://github.com/dreamRs/talks/blob/master/20190223_Satrday_POCTINDER.pdf).
+Slides are available in :gb: :arrow_right: [**here**](https://github.com/dreamRs/talks/blob/master/20190223_Satrday_POCTINDER.pdf).
 
 
 
@@ -30,7 +41,7 @@ Slides are available :arrow_right: [**here**](https://github.com/dreamRs/talks/b
 
 :date: 05/07/2018
 
-Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180407_RencontresR_Addins.pdf).
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20180407_RencontresR_Addins.pdf).
 
 Le package présentant les exemples de la présentation est disponible :arrow_right: [**ici**](https://github.com/dreamRs/rr2018addins).
 
@@ -55,7 +66,7 @@ Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/t
 
 :date: 27/07/2017
 
-Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170712_RAddicts_shinyWidgets.pdf).
 
 Vous pouvez lancer l'exemple comme ceci :
 
@@ -72,7 +83,7 @@ shiny::runGitHub(repo = "talks", username = "dreamRs", subdir = "examples/meetup
 
 :date: 20/04/2017
 
-Les slides sont disponibles :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170420_SFDS_ShinySousLeCapot.pdf).
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20170420_SFDS_ShinySousLeCapot.pdf).
 
 Vous pouvez lancer l'exemple comme ceci :
 
