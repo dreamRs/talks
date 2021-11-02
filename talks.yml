@@ -1,7 +1,7 @@
 talks:
   - name: RencontresR_Esquisse
     file: "20210712_RR_esquisse"
-    title: "20210712_RR_esquisse"
+    title: "Présentation d'esquisse"
     when: "2021-07-12"
     where: "Rencontres R à Paris"
   - name: OurJourneyWithShiny
