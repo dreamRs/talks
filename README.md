@@ -4,6 +4,17 @@
 See online version : https://dreamrs.github.io/talks/
 
 
+## Esquisse
+
+:round_pushpin: Rencontres R à Paris
+
+:date: 12/07/2021
+
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20210712_RR_esquisse.pdf).
+
+
+
+
 ## Our journey with Shiny
 
 :round_pushpin: useR!2019 Toulouse
