@@ -1,7 +1,17 @@
 talks:
+  - name: RencontresR_Esquisse_2
+    file: "20240614_RR_esquisse"
+    title: "Présentation d'esquisse 2.0.0"
+    when: "2024-06-14"
+    where: "Rencontres R à Vannes"
+  - name: RencontresR_datamods
+    file: "poster datamods-fr"
+    title: "Poster {datamods}"
+    when: "2024-06-14"
+    where: "Rencontres R à Vannes"
   - name: RencontresR_Esquisse
     file: "20210712_RR_esquisse"
-    title: "Présentation d'esquisse"
+    title: "Présentation d'esquisse 1.0.0"
     when: "2021-07-12"
     where: "Rencontres R à Paris"
   - name: OurJourneyWithShiny
