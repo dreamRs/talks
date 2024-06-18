@@ -4,7 +4,18 @@
 See online version : https://dreamrs.github.io/talks/
 
 
-## Esquisse
+## Esquisse 2.0.0
+
+:round_pushpin: Rencontres R à Vannes
+
+:date: 14/06/2024
+
+Les slides sont disponibles en :fr: :arrow_right: [**ici**](https://github.com/dreamRs/talks/blob/master/20240614_RR_esquisse.pdf).
+
+
+
+
+## Esquisse 1.0.0
 
 :round_pushpin: Rencontres R à Paris
 
